@@ -1,6 +1,10 @@
 ### Hi there 👋, my name is Aya
 
-Skills:  JS / HTML / C++ / CSS
+Skills: 
+*JS 
+*HTML 
+*C++ 
+*CSS
 
 - 🔭 I’m currently working on this page. 
 
