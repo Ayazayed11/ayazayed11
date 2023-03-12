@@ -1,10 +1,12 @@
 ### Hi there 👋, my name is Aya
+![](https://cdn.dribbble.com/users/1129235/screenshots/11119956/torus_dribbble_1_still_2x.gif?compress=1&resize=400x300)
+
 
 Skills: 
 * JS 
 * HTML 
-* bC++ 
-* CSS
+*  C++ 
+*   CSS
 
 - 🔭 I’m currently working on this page. 
 
